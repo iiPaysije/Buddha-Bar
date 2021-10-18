@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/home"
+    android:title="Home"
+    android:icon="@drawable/ic_action_home"
+
+    />
+
+    <item
+        android:id="@+id/jelovnik"
+        android:title="Jelovnik"
+        android:icon="@drawable/ic_action_jelovnik"
+
+        />
+    <item
+        android:id="@+id/rezervacija"
+        android:title="Rezervacija"
+        android:icon="@drawable/ic_action_rezervacija"
+
+        />
+    <item
+        android:id="@+id/mapa"
+        android:title="Mapa"
+        android:icon="@drawable/ic_action_mapa"
+
+        />
+
+
+</menu>
